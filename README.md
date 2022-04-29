@@ -3,7 +3,7 @@
 Completed the course [***Git Complete: The definitive, step-by-step guide to Git***](https://www.udemy.com/course/git-complete/) on *Udemy*.
 Used this repository to learn how Git and GitHub work, using sample website with plenty of files for demos
 
-# Udemy Certificate
+## Udemy Certificate
 
 Completed the course ***Git Complete: The definitive, step-by-step guide to Git*** on Udemy.
 Used this repository to learn how Git and GitHub work, using sample website with plenty of files for demos
