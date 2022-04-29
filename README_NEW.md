@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
-2022 @pravinps003
+2022 @pravinps003. All rights reserved.
